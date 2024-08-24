@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace PS02_02
 {
-    class Program
+    //Lagyan mo pangalan Eugene ~ Ross
+    class Program //Eugene Sumandi 
     {
         static void Main(string[] args)
         {
