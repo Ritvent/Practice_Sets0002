@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PracticeSets_02
 {
-    class Program //RiTVent Test
+    class Program //Ritvent Test
     {
         static void Main(string[] args)
         {
