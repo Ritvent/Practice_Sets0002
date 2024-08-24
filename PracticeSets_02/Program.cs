@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace PracticeSets_02
 {
-    class Program
+    class Program //Ritvent Test
     {
         static void Main(string[] args)
         {
-            //Hello preeeeeeeee
-            for (int i = 1; i <= 20; i++)
-                if (i % 2 == 0)
+            for (int i = 0; i <= 20; i++ )
+            {
+                if (i % 2 != 0)
                 {
                     Console.WriteLine(i);
                 }
-            Console.ReadKey();
+            }
         }
     }
 }
